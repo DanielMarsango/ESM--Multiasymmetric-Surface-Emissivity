@@ -1,4 +1,4 @@
-# ESM--Multiasymmetric-Surface-Emissivity
+# ESM--Multiasymmetric Surface Emissivity
 
 The Multiasymmetric Surface Emissivity Model describes the emission distribution over the surface of an accretion disk surrounding a supermassive black hole, allowing for the simultaneous inclusion of multiple asymmetric patterns. Unlike traditional axisymmetric parameterizations, this model incorporates localized or distorted emissivity components, representing spiral arms, heated regions, gravitational perturbations, or preferential accretion zones.
 
