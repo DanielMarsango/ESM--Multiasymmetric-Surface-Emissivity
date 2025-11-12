@@ -12,7 +12,7 @@ from scipy import interpolate
 lambda0	=6562.8
 ANGIi   = 68
 broad	=1200
-shift   =5 #added manually blue ou red do disco
+shift   =0 #added manually blue ou red do disco
 scale   =0.85#valor escala fluxo
 n       =50  #numero de pontos na matriz
 xi      =2500 #eixo x da matrix
