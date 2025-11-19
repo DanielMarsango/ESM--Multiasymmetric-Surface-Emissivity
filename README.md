@@ -7,3 +7,8 @@ The total emissivity is expressed as the weighted sum of several overlapping asy
 This formalism provides a more realistic representation of the disk’s dynamical and geometrical conditions, allowing the investigation of multiple regions with different degrees of distortion and asymmetry, associated with phenomena such as instabilities, tidal interactions, or non-stationary accretion events.
 
 Cite this code : Marsango, D., Schimoia, J., Rembold, S., Double-peaked Profile and Tidal Disruption Event of NGC 4203, MNRAS,2025 (in PRESS).
+
+
+--ESM is world-class science for the world---
+
+Researchers who wish to ask questions or obtain more information can contact us by email: daniel.marsango@acad.ufsm.br
