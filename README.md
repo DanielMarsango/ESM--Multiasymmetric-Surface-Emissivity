@@ -9,6 +9,4 @@ This formalism provides a more realistic representation of the disk’s dynamica
 Cite this code : Marsango, D., Schimoia, J., Rembold, S., Double-peaked Profile and Tidal Disruption Event of NGC 4203, MNRAS,2025 (in PRESS).
 
 
---ESM is world-class science for the world---
-
 Researchers who wish to ask questions or obtain more information can contact us by email: daniel.marsango@acad.ufsm.br
